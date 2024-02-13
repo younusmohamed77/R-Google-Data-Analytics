@@ -1,0 +1,7 @@
+"0",""
+"0","example_df <- bookings_df %>%"
+"0","  summarize(number_canceled = sum(is_canceled)\, average_lead_time = sum(lead_time)/length(lead_time))"
+"2","Error: unexpected '\\' in:
+""example_df <- bookings_df %>%
+  summarize(number_canceled = sum(is_canceled)\""
+"

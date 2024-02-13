@@ -1,0 +1,4 @@
+"0","ggplot(data = variable_name) +"
+"0","  geom_point(mapping = aes(x = lead_time, y = children))"
+"2","Error: object 'variable_name' not found
+"
